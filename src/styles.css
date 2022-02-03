@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+.form {
+  width: 712px;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+}
+.button-form {
+  margin-left: 38%;
+}
